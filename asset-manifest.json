@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/headset-website/static/css/main.0df427d2.css",
+    "main.js": "/headset-website/static/js/main.c2d60a81.js",
+    "static/js/453.e7fca0ff.chunk.js": "/headset-website/static/js/453.e7fca0ff.chunk.js",
+    "static/media/Acumin-bold": "/headset-website/static/media/Acumin-bold.a6e6e684b9bd91212e5f",
+    "static/media/Acumin-regular": "/headset-website/static/media/Acumin-regular.0a74d633c61fc679702f",
+    "static/media/black-headset.jfif": "/headset-website/static/media/black-headset.f16e43871d7a5c693797.jfif",
+    "static/media/Acumin-Pro-Bold": "/headset-website/static/media/Acumin-Pro-Bold.2b1e9937109c1d85c33e",
+    "index.html": "/headset-website/index.html",
+    "main.0df427d2.css.map": "/headset-website/static/css/main.0df427d2.css.map",
+    "main.c2d60a81.js.map": "/headset-website/static/js/main.c2d60a81.js.map",
+    "453.e7fca0ff.chunk.js.map": "/headset-website/static/js/453.e7fca0ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0df427d2.css",
+    "static/js/main.c2d60a81.js"
+  ]
+}
